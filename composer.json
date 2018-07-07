@@ -1,0 +1,13 @@
+{
+    "name": "itboye/symfony-demo",
+    "description": "demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hebidu",
+            "email": "hebiduhebi@126.com"
+        }
+    ],
+    "require": {}
+}
